@@ -6,14 +6,20 @@ This example demonstrates the 3 core functions:
 3. translate()
 """
 
+import sys
 from tripura_translate import (
     process_text,
     search_dictionary,
     translate,
 )
 
+# Ensure proper Unicode output on Windows terminals
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 
 def main():
+
     print("=" * 60)
     print("tripura-translate: Quickstart Demo (Kokborok / Tripuri)")
     print("=" * 60)

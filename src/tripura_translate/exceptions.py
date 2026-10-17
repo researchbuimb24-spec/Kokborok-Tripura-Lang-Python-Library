@@ -121,3 +121,17 @@ class TranslationNotAvailableError(TranslationModelError):
             ),
         )
         self.text = text
+
+
+class LiteratureNotFoundError(TripuraTranslateError):
+    """Raised when a requested literature item or search query is not found."""
+
+    def __init__(self, identifier: str, suggestions: Optional[Sequence[str]] = None) -> None:
+        msg = f"Literature item not found for '{identifier}'."
+        details = None
+        if suggestions:
+            details = f"Available or suggested items: {', '.join(suggestions)}"
+        super().__init__(message=msg, details=details)
+        self.identifier = identifier
+        self.suggestions = suggestions or []
+

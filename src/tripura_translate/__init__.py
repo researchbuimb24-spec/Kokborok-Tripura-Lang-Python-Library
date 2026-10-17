@@ -12,11 +12,20 @@ from tripura_translate.exceptions import (
     DictionaryEntryNotFoundError,
     EmptyInputError,
     InvalidLanguageError,
+    LiteratureNotFoundError,
     ModelNotFoundError,
     TranslationModelError,
     TranslationNotAvailableError,
     TripuraTranslateError,
     UnsupportedDirectionError,
+)
+from tripura_translate.literature import (
+    KokborokLiterature,
+    LiteratureItem,
+    get_default_literature,
+    get_literature,
+    list_literature,
+    search_literature,
 )
 from tripura_translate.text_processing import (
     analyze_word_structure,
@@ -56,14 +65,20 @@ __all__ = [
     "search_dictionary",
     "translate",
     "normalize_lang_code",
+    "search_literature",
+    "list_literature",
+    "get_literature",
     # Classes
     "KokborokDictionary",
+    "KokborokLiterature",
+    "LiteratureItem",
     "Translator",
     "VerifiedPhraseTranslator",
     "HuggingFaceTranslator",
     "BaseTranslator",
     "TranslationResult",
     "get_default_dictionary",
+    "get_default_literature",
     "get_default_translator",
     # Exceptions
     "TripuraTranslateError",
@@ -71,6 +86,7 @@ __all__ = [
     "InvalidLanguageError",
     "UnsupportedDirectionError",
     "DictionaryEntryNotFoundError",
+    "LiteratureNotFoundError",
     "TranslationModelError",
     "ModelNotFoundError",
     "DependencyMissingError",
@@ -78,3 +94,4 @@ __all__ = [
     # Metadata
     "__version__",
 ]
+
