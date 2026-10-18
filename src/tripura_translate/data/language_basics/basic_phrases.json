@@ -1,0 +1,162 @@
+[
+  {
+    "id": "phrase_hello",
+    "kokborok": "Khulumkha",
+    "kokborok_bengali": "খুলুমখা",
+    "english": "Hello / Greetings",
+    "literal_breakdown": "Khulum (bow / greet) + -kha (COMPLETED / FORMULAIC)",
+    "category": "greetings",
+    "cultural_notes": "Traditional respectful greeting used when meeting someone.",
+    "source": "Tripura Primers (Class I); Pandey (2018)"
+  },
+  {
+    "id": "phrase_how_are_you",
+    "kokborok": "Nwng bahai tong?",
+    "kokborok_bengali": "নুং বাহাই তং?",
+    "english": "How are you?",
+    "literal_breakdown": "Nwng (you) bahai (how) tong (stay / exist)?",
+    "category": "everyday_conversations",
+    "cultural_notes": "Standard everyday inquiry about well-being.",
+    "source": "Tripura Primers (Class I); Karapurkar (1976)"
+  },
+  {
+    "id": "phrase_i_am_fine",
+    "kokborok": "Ang kahamno tong.",
+    "kokborok_bengali": "আং কাহামনো তং।",
+    "english": "I am doing well.",
+    "literal_breakdown": "Ang (I) kaham-no (good-EMPHATIC) tong (stay / be).",
+    "category": "everyday_conversations",
+    "cultural_notes": "Natural reply to 'Nwng bahai tong?'.",
+    "source": "Tripura Primers (Class I); Pandey (2018)"
+  },
+  {
+    "id": "phrase_thank_you",
+    "kokborok": "Hambai",
+    "kokborok_bengali": "হাম্বাই",
+    "english": "Thank you",
+    "literal_breakdown": "Ham (good / blessed) + bai (with / express)",
+    "category": "polite_expressions",
+    "cultural_notes": "Universally accepted Kokborok expression of gratitude.",
+    "source": "Tripura Primers (Class I); Pandey (2018)"
+  },
+  {
+    "id": "phrase_thank_you_very_much",
+    "kokborok": "Belaikheno hambai",
+    "kokborok_bengali": "বেলাইখেনো হাম্বাই",
+    "english": "Thank you very much",
+    "literal_breakdown": "Belaikhe-no (very much indeed) hambai (thank you)",
+    "category": "polite_expressions",
+    "cultural_notes": "Used for heartfelt or formal gratitude.",
+    "source": "Tripura Primers (Class II); Pandey (2018)"
+  },
+  {
+    "id": "phrase_goodbye",
+    "kokborok": "Ang thangkha",
+    "kokborok_bengali": "আং থাংখা",
+    "english": "Goodbye / I am taking leave",
+    "literal_breakdown": "Ang (I) thang-kha (go-PAST / departing)",
+    "category": "greetings",
+    "cultural_notes": "Polite formula said by the departing party.",
+    "source": "Karapurkar (1976); Tripura Primers"
+  },
+  {
+    "id": "phrase_farewell_stay_well",
+    "kokborok": "Kahamo tongdi",
+    "kokborok_bengali": "কাহামো তংদি",
+    "english": "Stay well / Farewell",
+    "literal_breakdown": "Kaham-o (well / good-in) tong-di (stay-IMPERATIVE/POLITE)",
+    "category": "greetings",
+    "cultural_notes": "Polite farewell spoken by the host to departing guests.",
+    "source": "Tripura Primers (Class I); Pandey (2018)"
+  },
+  {
+    "id": "phrase_whats_your_name",
+    "kokborok": "Nwngni mung tamo?",
+    "kokborok_bengali": "নুংনি মুং তামো?",
+    "english": "What is your name?",
+    "literal_breakdown": "Nwng-ni (your) mung (name) tamo (what)?",
+    "category": "questions",
+    "cultural_notes": "First introduction inquiry.",
+    "source": "Tripura Primers (Class I)"
+  },
+  {
+    "id": "phrase_my_name_is",
+    "kokborok": "Angni mung Debbarma.",
+    "kokborok_bengali": "আংনি মুং দেববর্মা।",
+    "english": "My name is Debbarma.",
+    "literal_breakdown": "Ang-ni (my) mung (name) [Name].",
+    "category": "everyday_conversations",
+    "cultural_notes": "Standard formula for stating one's name.",
+    "source": "Tripura Primers (Class I)"
+  },
+  {
+    "id": "phrase_please_come_in",
+    "kokborok": "Noko phaidi",
+    "kokborok_bengali": "নকো ফাইদি",
+    "english": "Please come into the house / Please come in",
+    "literal_breakdown": "Nok-o (house-into) phai-di (come-IMPERATIVE)",
+    "category": "polite_expressions",
+    "cultural_notes": "Traditional hospitality expression when welcoming visitors.",
+    "source": "Tripura Primers (Class I); Karapurkar (1976)"
+  },
+  {
+    "id": "phrase_please_sit",
+    "kokborok": "Nwng achukdi",
+    "kokborok_bengali": "নুং আচুকদি",
+    "english": "Please sit down",
+    "literal_breakdown": "Nwng (you) achuk-di (sit-IMPERATIVE/POLITE)",
+    "category": "polite_expressions",
+    "cultural_notes": "Polite invitation to sit on a chair or 'khamplai' (traditional stool).",
+    "source": "Karapurkar (1976), p. 64; Tripura Primers"
+  },
+  {
+    "id": "phrase_please_drink_water",
+    "kokborok": "Twi nungdi",
+    "kokborok_bengali": "তুই নুংদি",
+    "english": "Please drink water",
+    "literal_breakdown": "Twi (water) nung-di (drink-IMPERATIVE)",
+    "category": "polite_expressions",
+    "cultural_notes": "Offering fresh water to guests is the first custom of Tripuri hospitality.",
+    "source": "Tripura Primers (Class I); Pandey (2018)"
+  },
+  {
+    "id": "phrase_have_you_eaten_rice",
+    "kokborok": "Nwng mai chakha de?",
+    "kokborok_bengali": "নুং মাই চাখা দে?",
+    "english": "Have you eaten rice?",
+    "literal_breakdown": "Nwng (you) mai (rice) cha-kha (eat-PAST) de (QUESTION_PARTICLE)?",
+    "category": "questions",
+    "cultural_notes": "Common greeting and caring inquiry among friends and family.",
+    "source": "Tripura Primers (Class II); Pandey (2018)"
+  },
+  {
+    "id": "phrase_where_are_you_going",
+    "kokborok": "Nwng bano thangnai?",
+    "kokborok_bengali": "নুং বানো থাংনাই?",
+    "english": "Where are you going?",
+    "literal_breakdown": "Nwng (you) ba-no (where-to) thang-nai (go-FUTURE)?",
+    "category": "questions",
+    "cultural_notes": "Friendly casual greeting when encountering someone along a path.",
+    "source": "Karapurkar (1976), p. 88; Tripura Primers"
+  },
+  {
+    "id": "phrase_excuse_me_sorry",
+    "kokborok": "Angno nakardi",
+    "kokborok_bengali": "আংনো নাকারদি",
+    "english": "Please forgive me / Excuse me",
+    "literal_breakdown": "Ang-no (me-to) nakar-di (forgive/pardon-IMPERATIVE)",
+    "category": "polite_expressions",
+    "cultural_notes": "Used to apologize or politely gain attention.",
+    "source": "Pandey (2018); Karapurkar (1976)"
+  },
+  {
+    "id": "phrase_tripura_is_our_land",
+    "kokborok": "Twipra chwngni ha.",
+    "kokborok_bengali": "তুইপ্রা চুংনি হা।",
+    "english": "Tripura is our land.",
+    "literal_breakdown": "Twipra (Tripura) chwng-ni (our) ha (land / country).",
+    "category": "everyday_conversations",
+    "cultural_notes": "Traditional expression reflecting cultural identity and geography.",
+    "source": "Tripura Primers; Hoque (2014)"
+  }
+]

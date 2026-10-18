@@ -1,0 +1,148 @@
+[
+  {
+    "id": "karapurkar_1976_grammar",
+    "title": "Kokborok Grammar",
+    "author": "Pushpa Karapurkar (Pushpa Pai)",
+    "institution": "Central Institute of Indian Languages (CIIL)",
+    "publication_year": 1976,
+    "series": "CIIL Grammar Series (No. 3)",
+    "place": "Mysore, India",
+    "reference_url": "https://books.google.co.in/books?id=sAAOAAAAMAAJ",
+    "alternate_urls": [
+      "https://ciil.org",
+      "https://ciil-ebooks.net"
+    ],
+    "accessibility_status": "partially_accessible_metadata_and_citations",
+    "accessible_content_notes": "Google Books hosts the catalog metadata and snippet record. Scanned library copies and academic research citing this publication provide verified data on Kokborok phonemic inventory (vowels, consonants, vowel /ɨ/ written as 'w'), tone distinctions, noun suffixes (-rog), case postpositions (-no, -ni, -o, -bai, -bagwi), verb inflections (-kha, -nai, -ya, -di, -o), numeral classifiers (kai-, khorok-, ma-), and SOV word order. Complete raw book text is not public domain and is protected by CIIL copyright.",
+    "verified_topics": [
+      "alphabet_and_pronunciation",
+      "vowel_system",
+      "consonant_inventory",
+      "tone_system",
+      "pronouns",
+      "nouns_and_plurals",
+      "numeral_classifiers",
+      "postpositions_and_cases",
+      "verbs_and_patterns",
+      "tense_and_aspect",
+      "negation",
+      "sentence_structure"
+    ],
+    "copyright_status": "copyrighted_academic_fair_summary"
+  },
+  {
+    "id": "karapurkar_1972_phonetic_reader",
+    "title": "Tripuri Phonetic Reader",
+    "author": "Pushpa Karapurkar, E. Annamalai, and H. S. Biligiri",
+    "institution": "Central Institute of Indian Languages (CIIL)",
+    "publication_year": 1972,
+    "series": "CIIL Phonetic Reader Series (No. 5)",
+    "place": "Mysore, India",
+    "reference_url": "https://bharatavani.in/kokborok/bhashakosha",
+    "alternate_urls": [
+      "https://ciil.org",
+      "https://ciil-ebooks.net"
+    ],
+    "accessibility_status": "partially_accessible_metadata_and_citations",
+    "accessible_content_notes": "Bharatavani portal catalogs the work under Bhashakosha; CIIL archives hold the master edition. Phonetic descriptions of Tripuri vowels (/a/, /e/, /i/, /o/, /u/, /ɨ/), diphthongs (/ai/, /ui/, /wa/, /ya/), aspiration contrasts (p vs ph, t vs th, k vs kh), velar nasal /ŋ/, and lexical tone contrasts are fully cross-verified in linguistic literature.",
+    "verified_topics": [
+      "phonetics",
+      "vowel_inventory",
+      "consonant_classification",
+      "tone_distinction",
+      "orthographic_conventions"
+    ],
+    "copyright_status": "copyrighted_academic_fair_summary"
+  },
+  {
+    "id": "pandey_2018_learners_dict",
+    "title": "Hindi-Kokborok Learner's Dictionary (हिंदी-कॉकबरक अध्येता कोश)",
+    "author": "Prof. Nand Kishore Pandey (Editor)",
+    "institution": "Kendriya Hindi Sansthan (Central Institute of Hindi), Agra & Bharatavani Portal",
+    "publication_year": 2018,
+    "place": "Agra / New Delhi, India",
+    "reference_url": "https://bharatavani.in/kokborok/bhashakosha",
+    "alternate_urls": [
+      "http://khsindia.org"
+    ],
+    "accessibility_status": "accessible_portal_resource",
+    "accessible_content_notes": "Hosted under Bharatavani's Bhashakosha multi-lingual portal project (implemented by CIIL and Ministry of Education). Provides authoritative, standardized pedagogical mappings between Hindi, English, and Kokborok words across basic vocabulary categories (family, greetings, numerals, food, nature, verbs, adjectives).",
+    "verified_topics": [
+      "basic_vocabulary",
+      "greetings",
+      "numbers",
+      "family",
+      "colors",
+      "food_and_daily_life",
+      "people_and_places",
+      "verbs",
+      "adjectives"
+    ],
+    "copyright_status": "public_educational_portal_reference"
+  },
+  {
+    "id": "tripura_school_primers_adivaani",
+    "title": "Official Kokborok Language Primers (Classes I-VIII)",
+    "author": "Directorate of Kokborok & Other Minority Languages, Government of Tripura",
+    "institution": "Ministry of Tribal Affairs / Adivaani Tribal Portal & Government of Tripura",
+    "publication_year": 2020,
+    "place": "Agartala, Tripura, India",
+    "reference_url": "https://adivaani.tribal.gov.in/resources/primers/tripura-primers",
+    "alternate_urls": [
+      "https://kokborokoml.tripura.gov.in"
+    ],
+    "accessibility_status": "fully_accessible_direct_pdf_links",
+    "accessible_content_notes": "Fully accessible online via the Adivaani portal with open PDF links for Class I through VIII (including 'Puila Porima - Class I', 'Sa-nwi Bagsa - Class I', 'Larima-II', 'Khumtoya-III', 'Khumbubar-IV', 'Athukiri-V', 'Hachukni Khorang-VI', 'Yapiri Kwtal-VI'). These authentic government textbooks establish standard school spelling, everyday conversational phrases, classroom vocabulary, and reading passages in modern Latin and Bengali scripts.",
+    "verified_topics": [
+      "basic_phrases",
+      "orthography",
+      "school_vocabulary",
+      "reading_passages",
+      "conversational_expressions",
+      "numeral_expressions"
+    ],
+    "copyright_status": "government_educational_resource"
+  },
+  {
+    "id": "cbse_kokborok_syllabus_2024_25",
+    "title": "CBSE Kokborok Secondary Curriculum & Syllabus (2024-25)",
+    "author": "Central Board of Secondary Education (CBSE)",
+    "institution": "Ministry of Education, Government of India",
+    "publication_year": 2024,
+    "place": "New Delhi, India",
+    "reference_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/Sec/KOKBOROK_Sec_2024-25.pdf",
+    "alternate_urls": [
+      "https://cbseacademic.nic.in"
+    ],
+    "accessibility_status": "fully_accessible_downloaded_pdf",
+    "accessible_content_notes": "Official syllabus document for CBSE Secondary Kokborok (Subject Code 091 / secondary level). Directly downloaded and analyzed. Outlines standard grammatical terminology: 'Kok Bwtang' (Syntax/Sentence structure), 'Khorang manju' (Phonology/Sandhi), 'Kok Biphiring' (Parts of speech/Morphology), 'Wakhwlai' (Syllables/Roots), and 'Kok Khochormung' (Word analysis/Affixes).",
+    "verified_topics": [
+      "curriculum_structure",
+      "kokborok_grammatical_terms",
+      "sentence_structure",
+      "morphology_and_syntax_taxonomy",
+      "letter_writing_and_paragraph_conventions"
+    ],
+    "copyright_status": "official_curriculum_document"
+  },
+  {
+    "id": "hoque_2014_linguistic_study",
+    "title": "Kokborok: A Major Tribal Language of Tripura",
+    "author": "Faijul Hoque",
+    "institution": "IOSR Journal of Humanities and Social Science (IOSR-JHSS), Vol. 19, Issue 11",
+    "publication_year": 2014,
+    "place": "Tripura, India",
+    "reference_url": "https://www.iosrjournals.org",
+    "alternate_urls": [],
+    "accessibility_status": "fully_accessible_open_access_journal",
+    "accessible_content_notes": "Open-access peer-reviewed linguistic overview of Kokborok. Provides verified details on the Bodo-Garo linguistic lineage, tone classification (level vs high/falling), syllable structure, SOV syntax, pronoun paradigm, and numeral classifier system.",
+    "verified_topics": [
+      "phoneme_inventory",
+      "tone_structure",
+      "numeral_classifiers",
+      "sov_syntax",
+      "historical_lineage"
+    ],
+    "copyright_status": "open_access_academic_paper"
+  }
+]

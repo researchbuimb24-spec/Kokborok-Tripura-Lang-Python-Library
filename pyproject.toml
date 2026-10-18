@@ -51,7 +51,7 @@ dev = [
 where = ["src"]
 
 [tool.setuptools.package-data]
-"tripura_translate.data" = ["*.json"]
+"tripura_translate.data" = ["*.json", "language_basics/*.json"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

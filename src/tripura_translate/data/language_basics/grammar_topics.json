@@ -1,0 +1,535 @@
+{
+  "pronouns": {
+    "topic_id": "pronouns",
+    "title": "Pronouns",
+    "kokborok_term": "Borokthai (Kok Biphiring)",
+    "summary": "Kokborok personal pronouns distinguish three persons (1st, 2nd, 3rd) and two numbers (singular, plural). Third-person personal pronouns ('bo' / 'bini') are naturally gender-neutral, applying equally to he, she, and it. Demonstratives and interrogative pronouns serve spatial and interrogative functions.",
+    "rules": [
+      {
+        "name": "Personal Pronoun Inventory",
+        "description": "1st person: 'ang' (I), 'chwng' (we); 2nd person: 'nwng' (you sg.), 'norok' (you pl.); 3rd person: 'bo' (he/she/it), 'borok' (they). Notice 'borok' also means human beings or Tripuri people.",
+        "paradigm": {
+          "1st_singular": "ang",
+          "1st_plural": "chwng",
+          "2nd_singular": "nwng",
+          "2nd_plural": "norok",
+          "3rd_singular": "bo",
+          "3rd_plural": "borok"
+        }
+      },
+      {
+        "name": "Gender Neutrality in Third Person",
+        "description": "Unlike English ('he' vs 'she') or Hindi ('वह' with verb gender agreement), Kokborok 'bo' is completely gender-neutral. The predicate verb never changes for gender.",
+        "examples": [
+          {"kokborok": "Bo skulo thangnai.", "english": "He/she will go to school."}
+        ]
+      },
+      {
+        "name": "Demonstrative Pronouns",
+        "description": "Proximate demonstrative: 'abo' or 'o' (this); Distant demonstrative: 'phaye' or 'aro' (that/there). Locative demonstratives: 'oro' (here), 'aro' (there).",
+        "examples": [
+          {"kokborok": "Abo angni nok.", "english": "This is my house."},
+          {"kokborok": "Oro phai.", "english": "Come here."}
+        ]
+      },
+      {
+        "name": "Interrogative Pronouns",
+        "description": "Question pronouns: 'sabo' (who?), 'tamo' / 'tammo' (what?), 'bahai' (how?), 'bano' / 'baha' (where?), 'basing' (when?), 'tamobagwi' (why?).",
+        "examples": [
+          {"kokborok": "Nwng sabo?", "english": "Who are you?"},
+          {"kokborok": "Nwngni mung tamo?", "english": "What is your name?"}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Ang kamio thangnai.",
+        "english": "I will go to the village.",
+        "breakdown": "Ang (I) kami-o (village-to) thang-nai (go-FUTURE)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL; Tripura Primers"
+      },
+      {
+        "kokborok": "Nwng bahai tong?",
+        "english": "How are you?",
+        "breakdown": "Nwng (you) bahai (how) tong (stay/be)?",
+        "source": "Tripura Primers (Class I); Pandey (2018)"
+      },
+      {
+        "kokborok": "Bo angni yagwi.",
+        "english": "He/she is my friend.",
+        "breakdown": "Bo (he/she) ang-ni (my) yagwi (friend)",
+        "source": "Tripura Primers (Class II)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', Central Institute of Indian Languages, pp. 38-42",
+      "Hoque, Faijul (2014), 'Kokborok: A Major Tribal Language of Tripura', IOSR-JHSS",
+      "Tripura Language Primers, Directorate of Kokborok & OML, Govt. of Tripura"
+    ]
+  },
+  "nouns_and_plurals": {
+    "topic_id": "nouns_and_plurals",
+    "title": "Nouns and Plural Forms",
+    "kokborok_term": "Mungthai & Bwla (Kok Biphiring)",
+    "summary": "Kokborok nouns do not inflect for grammatical gender, but sex distinctions for animate beings are indicated with lexical markers (-chla for male, -bwrwi for female). Plurals are marked by the productive suffix '-rog' (or '-rok'). When counting nouns, numeral classifiers (such as 'kai-', 'khorok-', 'ma-') are obligatory.",
+    "rules": [
+      {
+        "name": "Plural Suffix '-rog'",
+        "description": "Attached directly to nouns and pronouns to indicate plural number. For example: 'borok' -> 'borokrog' (people), 'tok' -> 'tokrog' (birds), 'nok' -> 'nokrog' (houses), 'baphang' -> 'baphangrog' (trees).",
+        "examples": [
+          {"kokborok": "Borokrog kamio tong.", "english": "The people live in the village."},
+          {"kokborok": "Tokrog hachuko bir-o.", "english": "Birds fly in the hills."}
+        ]
+      },
+      {
+        "name": "Natural Gender Markers in Nouns",
+        "description": "Masculine marker: '-chla' or '-la' (e.g., 'bwsla' = son, 'pun-chla' = male goat). Feminine marker: '-bwrwi' or '-sa' (e.g., 'bwswrwi' = daughter, 'pun-bwrwi' = female goat).",
+        "examples": [
+          {"kokborok": "bwsla", "english": "son (male offspring)"},
+          {"kokborok": "bwswrwi", "english": "daughter (female offspring)"}
+        ]
+      },
+      {
+        "name": "Obligatory Numeral Classifiers",
+        "description": "Kokborok requires a classifier prefix before the numeral when counting items. 'kai-' is used for general inanimate things and fruits ('nok kaisa' = one house); 'khorok-' is used for human beings ('borok khoroksa' = one person); 'ma-' is used for animals and birds ('pun masa' = one goat).",
+        "examples": [
+          {"kokborok": "nok kaisa", "english": "one house (inanimate classifier 'kai-')"},
+          {"kokborok": "borok khoroknwi", "english": "two people (human classifier 'khorok-')"},
+          {"kokborok": "pun masa", "english": "one goat (animal classifier 'ma-')"}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Nok kaisa tong.",
+        "english": "There is one house.",
+        "breakdown": "Nok (house) kai-sa (CLASSIFIER-one) tong (exists)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 46"
+      },
+      {
+        "kokborok": "Borok khoroksa phaikha.",
+        "english": "One person came.",
+        "breakdown": "Borok (person) khorok-sa (HUMAN_CLASSIFIER-one) phai-kha (come-PAST)",
+        "source": "Pai (1976), p. 47; Hoque (2014)"
+      },
+      {
+        "kokborok": "Tokrog bir-o.",
+        "english": "The birds fly.",
+        "breakdown": "Tok-rog (bird-PLURAL) bir-o (fly-PRESENT)",
+        "source": "Tripura Primers (Class II)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 24-34, 45-52",
+      "Karapurkar, Pushpa (1972), 'Tripuri Phonetic Reader', CIIL",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "verbs_and_patterns": {
+    "topic_id": "verbs_and_patterns",
+    "title": "Verbs and Verb Patterns",
+    "kokborok_term": "Tangthai (Kok Biphiring)",
+    "summary": "Kokborok verbs are agglutinative. The bare verb root serves as the base, onto which suffixes for tense, aspect, mood, and negation attach. Verbs do not inflect for grammatical person, number, or gender, simplifying verbal agreement while maintaining expressive aspectual and modal distinctions.",
+    "rules": [
+      {
+        "name": "Invariable Verb Agreement",
+        "description": "Verbs do not change endings for 1st, 2nd, or 3rd person. 'Ang phaikha' (I came), 'Nwng phaikha' (You came), 'Bo phaikha' (He/she came) all use the identical verb form 'phaikha'.",
+        "examples": [
+          {"kokborok": "Ang phaikha.", "english": "I came."},
+          {"kokborok": "Nwng phaikha.", "english": "You came."},
+          {"kokborok": "Bo phaikha.", "english": "He/she came."}
+        ]
+      },
+      {
+        "name": "Imperative Mood Suffix '-di'",
+        "description": "Expresses a polite request or standard command directed to second person. Root 'phai' (come) -> 'phaidi' (please come); Root 'cha' (eat) -> 'chadi' (please eat); Root 'thang' (go) -> 'thangdi' (please go).",
+        "examples": [
+          {"kokborok": "Noko phaidi.", "english": "Please come home."},
+          {"kokborok": "Mai chadi.", "english": "Please eat rice."}
+        ]
+      },
+      {
+        "name": "Infinitive / Purposive Suffix '-na'",
+        "description": "Marks the infinitive or purposive verbal form ('to do X', 'in order to X'). Root 'thang' -> 'thangna' (to go); Root 'cha' -> 'chana' (to eat).",
+        "examples": [
+          {"kokborok": "Ang skulo thangna muchungo.", "english": "I want to go to school."}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Nwng achukdi.",
+        "english": "You sit down.",
+        "breakdown": "Nwng (you) achuk-di (sit-IMPERATIVE)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 64"
+      },
+      {
+        "kokborok": "Bo phaio.",
+        "english": "He/she comes.",
+        "breakdown": "Bo (he/she) phai-o (come-PRESENT)",
+        "source": "Pai (1976), p. 62; Hoque (2014)"
+      },
+      {
+        "kokborok": "Twi nungdi.",
+        "english": "Please drink water.",
+        "breakdown": "Twi (water) nung-di (drink-IMPERATIVE)",
+        "source": "Tripura Primers (Class I)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 60-78",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "tense_and_aspect": {
+    "topic_id": "tense_and_aspect",
+    "title": "Tense and Aspect",
+    "kokborok_term": "Sal & Halok (Tangthai Swlaimung)",
+    "summary": "Kokborok distinguishes three primary temporal frames: Present/Habitual, Past (completed/perfective), and Future. These are realized through distinct suffixal morphemes and auxiliary verb constructions.",
+    "rules": [
+      {
+        "name": "Past / Perfective Marker '-kha'",
+        "description": "Indicates completed actions in the past. Root + '-kha'. Root 'thang' (go) -> 'thangkha' (went / has gone); Root 'phai' (come) -> 'phaikha' (came / has arrived); Root 'cha' (eat) -> 'chakha' (ate).",
+        "examples": [
+          {"kokborok": "Ang mai chakha.", "english": "I ate rice."},
+          {"kokborok": "Bo dawko thangkha.", "english": "He/she went to the market."}
+        ]
+      },
+      {
+        "name": "Future Marker '-nai'",
+        "description": "Indicates an action that will take place in the future. Root + '-nai'. Root 'thang' -> 'thangnai' (will go); Root 'phai' -> 'phainai' (will come); Root 'cha' -> 'chanai' (will eat).",
+        "examples": [
+          {"kokborok": "Ang kamio thangnai.", "english": "I will go to the village."},
+          {"kokborok": "Bo phainai.", "english": "He/she will come."}
+        ]
+      },
+      {
+        "name": "Present Habitual Suffix '-o' and Progressive Aspect",
+        "description": "Simple present/habitual uses suffix '-o' (e.g., 'chao' = eats, 'phaio' = comes). Continuous/progressive aspect is constructed with the conjunctive participle '-wi' followed by the auxiliary 'tong' (to stay/exist): 'mai chawi tong' (is eating rice).",
+        "examples": [
+          {"kokborok": "Bo mai chao.", "english": "He/she eats rice (habitual)."},
+          {"kokborok": "Bo mai chawi tong.", "english": "He/she is eating rice (progressive)."}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Bo phaikha.",
+        "english": "He/she came.",
+        "breakdown": "Bo (he/she) phai-kha (come-PAST)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 63"
+      },
+      {
+        "kokborok": "Bo phainai.",
+        "english": "He/she will come.",
+        "breakdown": "Bo (he/she) phai-nai (come-FUTURE)",
+        "source": "Pai (1976), p. 63"
+      },
+      {
+        "kokborok": "Ang mai chawi tong.",
+        "english": "I am eating rice.",
+        "breakdown": "Ang (I) mai (rice) cha-wi tong (eat-CONJUNCTIVE stay/PROGRESSIVE)",
+        "source": "Tripura Primers (Class II); Pai (1976), p. 68"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 62-72",
+      "Hoque, Faijul (2014), 'Kokborok: A Major Tribal Language of Tripura', IOSR-JHSS"
+    ]
+  },
+  "negation": {
+    "topic_id": "negation",
+    "title": "Negation",
+    "kokborok_term": "Khorang Kaphang (Tangthai Swlaimung)",
+    "summary": "Kokborok negates verbal clauses predominantly through suffixation rather than independent pre-verbal negative particles. The suffix '-ya' attaches directly to the verb stem for present and future negation, while negative existential 'kwrwi' indicates absence.",
+    "rules": [
+      {
+        "name": "Present/Future Negative Suffix '-ya'",
+        "description": "Attaches directly to the verb root. Stem + '-ya'. Root 'thang' (go) -> 'thangya' (does not go / will not go); Root 'cha' (eat) -> 'chaya' (does not eat); Root 'phai' (come) -> 'phaiya' (does not come); Root 'man' (can/get) -> 'manya' (cannot).",
+        "examples": [
+          {"kokborok": "Bo phaiya.", "english": "He/she does not come / will not come."},
+          {"kokborok": "Ang mai chaya.", "english": "I do not eat rice."}
+        ]
+      },
+      {
+        "name": "Negative Existential 'kwrwi'",
+        "description": "Means 'there is not / does not exist / absent'. It functions as the direct negative counterpart of the existential verb 'tong' (to be / to exist).",
+        "examples": [
+          {"kokborok": "Twi kwrwi.", "english": "There is no water."},
+          {"kokborok": "Noko borok kwrwi.", "english": "There is nobody at home."}
+        ]
+      },
+      {
+        "name": "Incompleted Past Negative '-yakho'",
+        "description": "Formed by combining negative '-ya' with aspectual particle '-kho', indicating an action that has not occurred yet ('not yet').",
+        "examples": [
+          {"kokborok": "Bo phaiyakho.", "english": "He/she has not come yet."}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Ang thangya.",
+        "english": "I do not go.",
+        "breakdown": "Ang (I) thang-ya (go-NEGATIVE)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 74"
+      },
+      {
+        "kokborok": "Noko twi kwrwi.",
+        "english": "There is no water in the house.",
+        "breakdown": "Nok-o (house-in) twi (water) kwrwi (is_not)",
+        "source": "Tripura Primers (Class I); Pandey (2018)"
+      },
+      {
+        "kokborok": "Bo phaiyakho.",
+        "english": "He/she has not arrived yet.",
+        "breakdown": "Bo (he/she) phai-ya-kho (come-NEG-YET)",
+        "source": "Pai (1976), p. 75"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 73-77",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "questions": {
+    "topic_id": "questions",
+    "title": "Questions",
+    "kokborok_term": "Songmung Kok (Kok Bwtang)",
+    "summary": "Kokborok employs two primary question-formation strategies: polar (yes/no) questions marked by sentence-final particles, and content (wh-) questions using interrogative pronouns in-situ without requiring syntactic inversion.",
+    "rules": [
+      {
+        "name": "Polar (Yes/No) Question Particle '-de' / 'ba'",
+        "description": "Formed by taking a declarative sentence and adding the question particle '-de' (or 'ba') at the end of the clause. Word order remains unchanged.",
+        "examples": [
+          {"kokborok": "Nwng mai chakha de?", "english": "Have you eaten rice?"},
+          {"kokborok": "Bo phainai de?", "english": "Will he/she come?"}
+        ]
+      },
+      {
+        "name": "In-Situ Interrogatives",
+        "description": "Interrogative words ('sabo' = who, 'tamo' = what, 'bahai' = how, 'bano' = where) occupy the natural syntactic slot of the element being questioned (in-situ), without fronting or auxiliary inversion.",
+        "examples": [
+          {"kokborok": "Nwngni mung tamo?", "english": "What is your name? (Literally: Your name what?)"},
+          {"kokborok": "Nwng bano thangnai?", "english": "Where will you go? (Literally: You where will_go?)"}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Nwng mai chakha de?",
+        "english": "Have you eaten rice?",
+        "breakdown": "Nwng (you) mai (rice) cha-kha (eat-PAST) de (QUESTION_PARTICLE)?",
+        "source": "Tripura Primers (Class II); Pandey (2018)"
+      },
+      {
+        "kokborok": "Nwngni mung tamo?",
+        "english": "What is your name?",
+        "breakdown": "Nwng-ni (you-GENITIVE) mung (name) tamo (what)?",
+        "source": "Tripura Primers (Class I)"
+      },
+      {
+        "kokborok": "Nwng bano thangnai?",
+        "english": "Where will you go?",
+        "breakdown": "Nwng (you) ba-no (where-to) thang-nai (go-FUTURE)?",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 88"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 86-90",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "sentence_structure": {
+    "topic_id": "sentence_structure",
+    "title": "Sentence Structure and Word Order",
+    "kokborok_term": "Kok Bwtang (Kokborok Syntax)",
+    "summary": "Kokborok is fundamentally a Subject-Object-Verb (SOV) language, typical of the Tibeto-Burman language family. Adjectives generally follow the noun they modify or carry the adjectival prefix 'kw-' / 'k-'. Subordinate clauses precede main clauses.",
+    "rules": [
+      {
+        "name": "Strict SOV (Subject - Object - Verb) Order",
+        "description": "The finite verb consistently appears in sentence-final position. The typical linear order is: Subject + Indirect Object + Direct Object + Verb.",
+        "examples": [
+          {"kokborok": "Ang mai chao.", "english": "I eat rice. (Ang=S, mai=O, chao=V)"},
+          {"kokborok": "Apa angno rang rwikha.", "english": "Father gave me money. (Apa=S, angno=IO, rang=DO, rwikha=V)"}
+        ]
+      },
+      {
+        "name": "Noun-Adjective Order (Post-Nominal Modification)",
+        "description": "Descriptive adjectives typically follow the head noun: Noun + Adjective. For example, 'nok' (house) + 'kwtal' (new) = 'nok kwtal' (a new house); 'khumpui' (flower) + 'kwchak' (red) = 'khumpui kwchak' (red flower).",
+        "examples": [
+          {"kokborok": "nok kwtal", "english": "new house"},
+          {"kokborok": "borok kaham", "english": "good person"}
+        ]
+      },
+      {
+        "name": "Pre-verbal Adverbial Placement",
+        "description": "Adverbs of time, manner, and place are placed before the verb, frequently between the subject and object, or at the sentence onset for topicalization.",
+        "examples": [
+          {"kokborok": "Bo tinio kamio thangnai.", "english": "He/she will go to the village today."}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Ang mai chao.",
+        "english": "I eat rice.",
+        "breakdown": "Ang [Subject] mai [Object] chao [Verb]",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 82; Hoque (2014)"
+      },
+      {
+        "kokborok": "Apa dawko thangkha.",
+        "english": "Father went to the market.",
+        "breakdown": "Apa [Subject] dawk-o [Locative Object] thangkha [Verb]",
+        "source": "Tripura Primers (Class I)"
+      },
+      {
+        "kokborok": "Chwng nok kwtal nuko.",
+        "english": "We see a new house.",
+        "breakdown": "Chwng [Subject] nok kwtal [Noun + Adjective Object] nuk-o [Verb]",
+        "source": "Tripura Primers (Class II); Pai (1976)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 80-86",
+      "Hoque, Faijul (2014), 'Kokborok: A Major Tribal Language of Tripura', IOSR-JHSS",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "postpositions": {
+    "topic_id": "postpositions",
+    "title": "Postpositions and Case Markers",
+    "kokborok_term": "Kok Baphang & Halok (Case System)",
+    "summary": "Kokborok is an agglutinative postpositional language. It does not use prepositions (like English 'in', 'to', 'for'). Instead, grammatical relations and spatial roles are marked by case suffixes and postpositional words directly following the noun.",
+    "rules": [
+      {
+        "name": "Objective (Accusative / Dative) Suffix '-no'",
+        "description": "Marks the direct object (especially when animate/definite) or indirect recipient: 'ang-no' (to me / me), 'bo-no' (to him / her), 'borok-no' (to the person).",
+        "examples": [
+          {"kokborok": "Angno twi rwidi.", "english": "Please give me water."},
+          {"kokborok": "Bono kok sadi.", "english": "Tell him/her the word."}
+        ]
+      },
+      {
+        "name": "Genitive (Possessive) Suffix '-ni'",
+        "description": "Marks possession or origin: 'ang-ni' (my / mine), 'nwng-ni' (your / yours), 'bo-ni' (his / hers / its), 'Twipra-ni' (of Tripura).",
+        "examples": [
+          {"kokborok": "angni nok", "english": "my house"},
+          {"kokborok": "chwngni kami", "english": "our village"}
+        ]
+      },
+      {
+        "name": "Locative Suffix '-o'",
+        "description": "Marks location in space or time ('in', 'at', 'on', 'to'): 'nok-o' (in the house / at home), 'kami-o' (in the village), 'dawk-o' (at the market), 'skul-o' (at school).",
+        "examples": [
+          {"kokborok": "Bo noko tong.", "english": "He/she is at home."},
+          {"kokborok": "Dawko thangdi.", "english": "Go to the market."}
+        ]
+      },
+      {
+        "name": "Instrumental / Comitative Suffix '-bai'",
+        "description": "Means 'with' or 'by means of': 'ang-bai' (with me), 'ya-bai' (with hands), 'gari-bai' (by vehicle).",
+        "examples": [
+          {"kokborok": "Ang angni yagwibai thangkha.", "english": "I went with my friend."}
+        ]
+      },
+      {
+        "name": "Benefactive / Purposive Postposition '-bagwi'",
+        "description": "Means 'for' or 'for the sake of': 'ang-bagwi' (for me), 'nwng-bagwi' (for you), 'skul-bagwi' (for school).",
+        "examples": [
+          {"kokborok": "Abo nwngbagwi.", "english": "This is for you."}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Angno twi rwidi.",
+        "english": "Please give me water.",
+        "breakdown": "Ang-no (me-OBJECTIVE) twi (water) rwi-di (give-IMPERATIVE)",
+        "source": "Pai (1976), Kokborok Grammar, CIIL, p. 30; Tripura Primers"
+      },
+      {
+        "kokborok": "Chwngni kami belaike kaham.",
+        "english": "Our village is very beautiful.",
+        "breakdown": "Chwng-ni (we-GENITIVE) kami (village) belaike (very) kaham (good)",
+        "source": "Tripura Primers (Class II)"
+      },
+      {
+        "kokborok": "Bo noko tong.",
+        "english": "He/she is at home.",
+        "breakdown": "Bo (he/she) nok-o (house-LOCATIVE) tong (stays/is)",
+        "source": "Tripura Primers (Class I); Pandey (2018)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', CIIL, pp. 28-36",
+      "Hoque, Faijul (2014), 'Kokborok: A Major Tribal Language of Tripura', IOSR-JHSS",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  },
+  "sentence_construction": {
+    "topic_id": "sentence_construction",
+    "title": "Basic Sentence Construction",
+    "kokborok_term": "Kok Bwtang Swlaimung & Kokthai Build-up",
+    "summary": "Building authentic Kokborok sentences brings together SOV word order, numeral classifiers, case postpositions, and agglutinative verbal suffixes. By combining simple noun phrases with verbal predicates, learners can formulate daily conversational sentences.",
+    "rules": [
+      {
+        "name": "Step 1: Simple Equational Clauses (Nominal Predicates)",
+        "description": "In equational sentences ('A is B'), Kokborok does not require an overt copular verb ('to be') in simple present statements. The two noun phrases are juxtaposed directly.",
+        "examples": [
+          {"kokborok": "Bo angni yagwi.", "english": "He/she is my friend. (Bo + angni yagwi, no overt copula needed)"},
+          {"kokborok": "Twipra chwngni ha.", "english": "Tripura is our land."}
+        ]
+      },
+      {
+        "name": "Step 2: Intransitive Action Sentences",
+        "description": "Structure: Subject (+ Locative/Adverb) + Intransitive Verb. For example: 'Ang' (I) + 'kamio' (to the village) + 'thangnai' (will go) = 'Ang kamio thangnai.'",
+        "examples": [
+          {"kokborok": "Ang kamio thangnai.", "english": "I will go to the village."},
+          {"kokborok": "Borokrog phaikha.", "english": "The people arrived."}
+        ]
+      },
+      {
+        "name": "Step 3: Transitive Action Sentences",
+        "description": "Structure: Subject + Object (+ Case) + Transitive Verb. For example: 'Ama' (Mother) + 'mai' (rice) + 'songo' (cooks) = 'Ama mai songo.'",
+        "examples": [
+          {"kokborok": "Ama mai songo.", "english": "Mother cooks rice."},
+          {"kokborok": "Bwsla bwlayo poro.", "english": "The boy reads the book."}
+        ]
+      },
+      {
+        "name": "Step 4: Request & Question Formations",
+        "description": "To form a request, substitute the verb ending with '-di'. To form a polar question, append '-de'. For example: 'Nwng mai chakha' -> 'Nwng mai chakha de?' (Did you eat rice?).",
+        "examples": [
+          {"kokborok": "Ano chobadi.", "english": "Please help me."},
+          {"kokborok": "Nwng skulo thangnai de?", "english": "Will you go to school?"}
+        ]
+      }
+    ],
+    "authentic_examples": [
+      {
+        "kokborok": "Twipra chwngni ha.",
+        "english": "Tripura is our land.",
+        "breakdown": "Twipra [Subject] chwng-ni ha [Predicate Noun Phrase]",
+        "source": "Tripura School Primers; Cultural Heritage Records"
+      },
+      {
+        "kokborok": "Ang skulo thangwi poro.",
+        "english": "I go to school and study.",
+        "breakdown": "Ang [Subject] skul-o [Locative] thang-wi [go-CONJUNCTIVE] por-o [study-PRESENT]",
+        "source": "Tripura Primers (Class II); Pai (1976)"
+      },
+      {
+        "kokborok": "Belaikheno hambai, ang thangkha.",
+        "english": "Thank you very much, I am taking my leave.",
+        "breakdown": "Belaikheno hambai (Thank you very much), ang (I) thang-kha (leave-PAST/LEAVING)",
+        "source": "Tripura Conversational Primers; Pandey (2018)"
+      }
+    ],
+    "source_references": [
+      "Pai, Pushpa (1976), 'Kokborok Grammar', Central Institute of Indian Languages, pp. 80-94",
+      "Tripura Language Primers, Directorate of Kokborok & OML, Govt. of Tripura",
+      "CBSE Kokborok Secondary Curriculum (Code 091), 2024-25"
+    ]
+  }
+}

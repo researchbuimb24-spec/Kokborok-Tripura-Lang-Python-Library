@@ -1,0 +1,402 @@
+{
+  "language": "Kokborok (Tripuri)",
+  "language_codes": ["trp", "kok"],
+  "language_family": "Sino-Tibetan > Tibeto-Burman > Bodo-Garo > Bodo-Koch > Tripuri",
+  "scripts": [
+    {
+      "name": "Latin (Roman Script)",
+      "status": "widely_used_modern_standard",
+      "description": "Standard modern Latin orthography recognized in education, literature, and digital communication in Tripura. Uses 26 letters of the Latin alphabet with specific phonemic conventions, most notably using 'w' for the high unrounded vowel /ɨ/.",
+      "special_conventions": [
+        "The letter 'w' represents the close central/back unrounded vowel /ɨ/ (e.g., 'twi', 'nwng', 'swi').",
+        "Digraphs 'ch', 'ph', 'th', 'kh', 'ng' represent single phonemic units (aspirated stops, affricate, and velar nasal).",
+        "The letter 'h' immediately following a vowel is often used orthographically to signify high/falling tone register."
+      ]
+    },
+    {
+      "name": "Eastern Nagari (Bengali Script)",
+      "status": "historically_and_pedagogically_used",
+      "description": "Historically employed in the Kingdom of Tripura since the 19th century and in early school textbooks. Uses Eastern Nagari characters with adapted vowel and consonant combinations.",
+      "special_conventions": [
+        "Bengali 'উ' (u) or 'অ' (o) with diacritics is sometimes used for the /ɨ/ sound.",
+        "Bengali 'ঙ' or 'ং' (anusvara) represents the velar nasal /ŋ/."
+      ]
+    }
+  ],
+  "vowels": [
+    {
+      "letter": "a",
+      "ipa": "/a/",
+      "bengali_equivalent": "আ / া",
+      "articulatory_description": "Open central unrounded vowel.",
+      "pronunciation_guidance": "Pronounced like 'a' in English 'father' or Hindi 'आ'.",
+      "examples": [
+        {"kokborok": "ang", "meaning": "I / me"},
+        {"kokborok": "ama", "meaning": "mother"},
+        {"kokborok": "sal", "meaning": "sun / day"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 12; Pai (1976), p. 8"
+    },
+    {
+      "letter": "e",
+      "ipa": "/e/",
+      "bengali_equivalent": "এ / ে",
+      "articulatory_description": "Close-mid front unrounded vowel.",
+      "pronunciation_guidance": "Pronounced like 'e' in English 'bed' or 'pet'.",
+      "examples": [
+        {"kokborok": "berma", "meaning": "traditional fermented fish"},
+        {"kokborok": "belaikheno", "meaning": "very / much"},
+        {"kokborok": "se", "meaning": "indeed / particle"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 14; Pai (1976), p. 9"
+    },
+    {
+      "letter": "i",
+      "ipa": "/i/",
+      "bengali_equivalent": "ই / ি",
+      "articulatory_description": "Close front unrounded vowel.",
+      "pronunciation_guidance": "Pronounced like 'ee' in English 'see' or 'i' in 'machine'.",
+      "examples": [
+        {"kokborok": "isi", "meaning": "small / few"},
+        {"kokborok": "bihik", "meaning": "wife"},
+        {"kokborok": "sikla", "meaning": "young man"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 11; Pai (1976), p. 8"
+    },
+    {
+      "letter": "o",
+      "ipa": "/o/",
+      "bengali_equivalent": "ও / ো",
+      "articulatory_description": "Close-mid back rounded vowel.",
+      "pronunciation_guidance": "Pronounced like 'o' in English 'go' or Hindi 'ओ'.",
+      "examples": [
+        {"kokborok": "borok", "meaning": "human being / Tripuri person"},
+        {"kokborok": "kotor", "meaning": "big / large"},
+        {"kokborok": "hor", "meaning": "night / fire"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 15; Pai (1976), p. 9"
+    },
+    {
+      "letter": "u",
+      "ipa": "/u/",
+      "bengali_equivalent": "উ / ু",
+      "articulatory_description": "Close back rounded vowel.",
+      "pronunciation_guidance": "Pronounced like 'oo' in English 'boot' or Hindi 'ऊ'.",
+      "examples": [
+        {"kokborok": "pun", "meaning": "goat"},
+        {"kokborok": "chuku", "meaning": "nine"},
+        {"kokborok": "kuchuk", "meaning": "high / tall"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 16; Pai (1976), p. 8"
+    },
+    {
+      "letter": "w",
+      "ipa": "/ɨ/ (or /ɯ/)",
+      "bengali_equivalent": "অ্য / ্ব",
+      "articulatory_description": "Close central unrounded vowel (characteristic Tibeto-Burman vowel).",
+      "pronunciation_guidance": "Unique Kokborok vowel. Produced with tongue positioned in the center/high of the mouth without rounding the lips, similar to Russian 'ы' or Turkish dotless 'ı'. Do not pronounce as English consonant 'w'.",
+      "examples": [
+        {"kokborok": "twi", "meaning": "water / river"},
+        {"kokborok": "nwng", "meaning": "you (singular)"},
+        {"kokborok": "swi", "meaning": "to write"},
+        {"kokborok": "kwtal", "meaning": "new"},
+        {"kokborok": "bwrwi", "meaning": "female / woman"},
+        {"kokborok": "chwng", "meaning": "we / us"}
+      ],
+      "source_reference": "Karapurkar (1972), p. 13; Pai (1976), p. 9; Hoque (2014)"
+    }
+  ],
+  "diphthongs": [
+    {
+      "combination": "ai",
+      "ipa": "/ai/",
+      "pronunciation_guidance": "Pronounced like 'eye' in English or 'ai' in 'aisle'.",
+      "examples": [
+        {"kokborok": "hambai", "meaning": "thank you"},
+        {"kokborok": "phai", "meaning": "to come"},
+        {"kokborok": "mai", "meaning": "cooked rice"}
+      ]
+    },
+    {
+      "combination": "au / ao",
+      "ipa": "/au/",
+      "pronunciation_guidance": "Pronounced like 'ow' in English 'cow'.",
+      "examples": [
+        {"kokborok": "chao", "meaning": "eats"},
+        {"kokborok": "aung", "meaning": "yes"}
+      ]
+    },
+    {
+      "combination": "ui",
+      "ipa": "/ui/",
+      "pronunciation_guidance": "Gliding from /u/ to /i/.",
+      "examples": [
+        {"kokborok": "mwi", "meaning": "curry / vegetables"},
+        {"kokborok": "twi", "meaning": "water"}
+      ]
+    },
+    {
+      "combination": "wi",
+      "ipa": "/ɨi/",
+      "pronunciation_guidance": "Close central unrounded vowel gliding into /i/.",
+      "examples": [
+        {"kokborok": "swi", "meaning": "write"},
+        {"kokborok": "chakhwi", "meaning": "alkali shoot dish"}
+      ]
+    },
+    {
+      "combination": "wa",
+      "ipa": "/wa/",
+      "pronunciation_guidance": "Labio-velar glide followed by open vowel /a/.",
+      "examples": [
+        {"kokborok": "wakhwlai", "meaning": "syllable"},
+        {"kokborok": "wasa", "meaning": "root"}
+      ]
+    },
+    {
+      "combination": "ya",
+      "ipa": "/ja/",
+      "pronunciation_guidance": "Palatal glide followed by open vowel /a/.",
+      "examples": [
+        {"kokborok": "yagwi", "meaning": "friend"},
+        {"kokborok": "thangya", "meaning": "does not go (negation)"}
+      ]
+    }
+  ],
+  "consonants": [
+    {
+      "letter": "p",
+      "ipa": "/p/",
+      "bengali_equivalent": "প",
+      "category": "bilabial_stop",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless bilabial stop, like 'p' in 'spin'.",
+      "examples": [{"kokborok": "pun", "meaning": "goat"}]
+    },
+    {
+      "letter": "ph",
+      "ipa": "/pʰ/",
+      "bengali_equivalent": "ফ",
+      "category": "bilabial_stop",
+      "voiced": false,
+      "aspirated": true,
+      "pronunciation_guidance": "Aspirated voiceless bilabial stop, like 'p' in English 'pot'.",
+      "examples": [{"kokborok": "phai", "meaning": "to come"}]
+    },
+    {
+      "letter": "b",
+      "ipa": "/b/",
+      "bengali_equivalent": "ব",
+      "category": "bilabial_stop",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced bilabial stop, like 'b' in English 'boy'.",
+      "examples": [{"kokborok": "borok", "meaning": "human / Tripuri person"}]
+    },
+    {
+      "letter": "t",
+      "ipa": "/t/",
+      "bengali_equivalent": "ত",
+      "category": "alveolar_stop",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless dental/alveolar stop, like 't' in 'stop'.",
+      "examples": [{"kokborok": "tong", "meaning": "to stay / live"}]
+    },
+    {
+      "letter": "th",
+      "ipa": "/tʰ/",
+      "bengali_equivalent": "থ",
+      "category": "alveolar_stop",
+      "voiced": false,
+      "aspirated": true,
+      "pronunciation_guidance": "Aspirated voiceless stop, like 't' in English 'top'.",
+      "examples": [{"kokborok": "thang", "meaning": "to go"}]
+    },
+    {
+      "letter": "d",
+      "ipa": "/d/",
+      "bengali_equivalent": "দ",
+      "category": "alveolar_stop",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced dental/alveolar stop, like 'd' in English 'dog'.",
+      "examples": [{"kokborok": "dok", "meaning": "six"}]
+    },
+    {
+      "letter": "k",
+      "ipa": "/k/",
+      "bengali_equivalent": "ক",
+      "category": "velar_stop",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless velar stop, like 'k' in 'skill'.",
+      "examples": [{"kokborok": "kami", "meaning": "village"}]
+    },
+    {
+      "letter": "kh",
+      "ipa": "/kʰ/",
+      "bengali_equivalent": "খ",
+      "category": "velar_stop",
+      "voiced": false,
+      "aspirated": true,
+      "pronunciation_guidance": "Aspirated voiceless velar stop, like 'k' in English 'kite'.",
+      "examples": [{"kokborok": "khulumkha", "meaning": "hello / greetings"}]
+    },
+    {
+      "letter": "g",
+      "ipa": "/g/",
+      "bengali_equivalent": "গ",
+      "category": "velar_stop",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced velar stop, like 'g' in English 'good'.",
+      "examples": [{"kokborok": "gwnang", "meaning": "having / possessor"}]
+    },
+    {
+      "letter": "ch",
+      "ipa": "/tʃ/ (or /c/)",
+      "bengali_equivalent": "চ",
+      "category": "affricate",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless palato-alveolar affricate, like 'ch' in English 'chair'.",
+      "examples": [{"kokborok": "cha", "meaning": "to eat"}]
+    },
+    {
+      "letter": "j",
+      "ipa": "/dʒ/",
+      "bengali_equivalent": "জ",
+      "category": "affricate",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced palato-alveolar affricate, like 'j' in English 'joy'.",
+      "examples": [{"kokborok": "jora", "meaning": "time / hour"}]
+    },
+    {
+      "letter": "s",
+      "ipa": "/s/",
+      "bengali_equivalent": "স",
+      "category": "fricative",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless alveolar fricative, like 's' in English 'sun'.",
+      "examples": [{"kokborok": "sal", "meaning": "sun / day"}]
+    },
+    {
+      "letter": "h",
+      "ipa": "/h/",
+      "bengali_equivalent": "হ",
+      "category": "glottal_fricative",
+      "voiced": false,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiceless glottal fricative, like 'h' in English 'home'.",
+      "examples": [{"kokborok": "hambai", "meaning": "thank you"}]
+    },
+    {
+      "letter": "m",
+      "ipa": "/m/",
+      "bengali_equivalent": "ম",
+      "category": "nasal",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced bilabial nasal, like 'm' in English 'mother'.",
+      "examples": [{"kokborok": "mai", "meaning": "cooked rice"}]
+    },
+    {
+      "letter": "n",
+      "ipa": "/n/",
+      "bengali_equivalent": "ন",
+      "category": "nasal",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced alveolar nasal, like 'n' in English 'name'.",
+      "examples": [{"kokborok": "nok", "meaning": "house"}]
+    },
+    {
+      "letter": "ng",
+      "ipa": "/ŋ/",
+      "bengali_equivalent": "ঙ / ং",
+      "category": "nasal",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Voiced velar nasal, like 'ng' in English 'sing'. Can appear in initial, medial, or final positions.",
+      "examples": [
+        {"kokborok": "ang", "meaning": "I / me"},
+        {"kokborok": "nwng", "meaning": "you"}
+      ]
+    },
+    {
+      "letter": "r",
+      "ipa": "/r/",
+      "bengali_equivalent": "র",
+      "category": "liquid",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Alveolar tap or trill, like 'r' in Spanish 'pero'.",
+      "examples": [{"kokborok": "rwi", "meaning": "to give"}]
+    },
+    {
+      "letter": "l",
+      "ipa": "/l/",
+      "bengali_equivalent": "ল",
+      "category": "liquid",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Alveolar lateral approximant, like 'l' in English 'light'.",
+      "examples": [{"kokborok": "lama", "meaning": "road / path"}]
+    },
+    {
+      "letter": "y",
+      "ipa": "/j/",
+      "bengali_equivalent": "য়",
+      "category": "glide",
+      "voiced": true,
+      "aspirated": false,
+      "pronunciation_guidance": "Palatal glide, like 'y' in English 'yes'.",
+      "examples": [{"kokborok": "yagwi", "meaning": "friend"}]
+    }
+  ],
+  "tone_system": {
+    "tonal_language": true,
+    "number_of_tones": 2,
+    "tones": [
+      {
+        "name": "Level Tone (Low / Neutral Register)",
+        "pitch_contour": "Mid-level or low sustained pitch.",
+        "description": "The default unmarked tone register in Kokborok.",
+        "example_minimal_pairs": [
+          {
+            "word": "ha",
+            "meaning": "land / earth",
+            "tone": "level"
+          },
+          {
+            "word": "cha",
+            "meaning": "correct / fine",
+            "tone": "level"
+          }
+        ]
+      },
+      {
+        "name": "High / Falling Tone",
+        "pitch_contour": "High onset falling pitch, accompanied by mild glottal tension.",
+        "description": "Characterized by higher pitch and tighter vocal folds. In standard Roman orthography, it is often represented by a post-vocalic 'h' or distinguished contextually.",
+        "example_minimal_pairs": [
+          {
+            "word": "hah",
+            "meaning": "soil / earth (high register)",
+            "tone": "high_falling"
+          },
+          {
+            "word": "chah",
+            "meaning": "to eat",
+            "tone": "high_falling"
+          }
+        ]
+      }
+    ],
+    "source_reference": "Karapurkar (1972), 'Tripuri Phonetic Reader', CIIL; Pai (1976), p. 18; Hoque (2014)"
+  }
+}

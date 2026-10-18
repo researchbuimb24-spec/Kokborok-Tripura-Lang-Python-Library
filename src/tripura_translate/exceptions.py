@@ -135,3 +135,21 @@ class LiteratureNotFoundError(TripuraTranslateError):
         self.identifier = identifier
         self.suggestions = suggestions or []
 
+
+class LanguageBasicsError(TripuraTranslateError):
+    """Base exception for errors originating in the language basics module."""
+
+
+class GrammarTopicNotFoundError(LanguageBasicsError):
+    """Raised when a requested grammar topic is not found."""
+
+    def __init__(self, topic: str, available_topics: Optional[Sequence[str]] = None) -> None:
+        msg = f"Grammar topic '{topic}' was not found."
+        details = None
+        if available_topics:
+            details = f"Available topics: {', '.join(available_topics)}"
+        super().__init__(message=msg, details=details)
+        self.topic = topic
+        self.available_topics = list(available_topics) if available_topics else []
+
+
