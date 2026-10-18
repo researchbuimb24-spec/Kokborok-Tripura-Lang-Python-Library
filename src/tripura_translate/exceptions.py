@@ -136,6 +136,19 @@ class LiteratureNotFoundError(TripuraTranslateError):
         self.suggestions = suggestions or []
 
 
+class FolkSongNotFoundError(TripuraTranslateError):
+    """Raised when a requested folk song entry is not found in the catalog."""
+
+    def __init__(self, identifier: str, suggestions: Optional[Sequence[str]] = None) -> None:
+        msg = f"Folk song not found for '{identifier}'."
+        details = None
+        if suggestions:
+            details = f"Did you mean: {', '.join(suggestions)}?"
+        super().__init__(message=msg, details=details)
+        self.identifier = identifier
+        self.suggestions = suggestions or []
+
+
 class LanguageBasicsError(TripuraTranslateError):
     """Base exception for errors originating in the language basics module."""
 
